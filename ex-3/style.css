@@ -58,7 +58,6 @@ main {
   color: rgb(96, 96, 255);
   font-weight: 900;
 }
-
 .img-details button:hover {
   cursor: pointer;
 }

@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(210, 243, 232);
+  font-family: cursive;
+}
+header {
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  background-color: #f80000;
+  width: 100%;
+  height: 3rem;
+}
+main {
+  margin-top: 3rem;
+}
+.land-page {
+  height: 80vh;
+  background-color: rgb(59, 182, 106);
+  display: flex;
+  gap: 7%;
+  justify-content: center;
+  align-items: center;
+}
+.div-1,
+.div-2 {
+  height: 50vh;
+  width: 40%;
+  background-color: bisque;
+}
+.contact-btn {
+  height: 3rem;
+  width: 3rem;
+  background-color: blue;
+  bottom: 1rem;
+  right: 2rem;
+  position: fixed;
+  border-radius: 50%;
+}
+footer {
+  height: 3rem;
+  background-color: red;
+}
