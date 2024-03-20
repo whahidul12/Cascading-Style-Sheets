@@ -36,7 +36,7 @@ main {
 .contact-btn {
   height: 3rem;
   width: 3rem;
-  background-color: blue;
+  background-color: rgb(0, 0, 255);
   bottom: 1rem;
   right: 2rem;
   position: fixed;
